@@ -1,5 +1,5 @@
 # BTC_Address_Analysis
-Analysis on % Change in Unique BTC Addresses as a leading indicator of BTC Price
+Analysis on % Change in Unique BTC Addresses (source: Blockchain.com) as a leading indicator of BTC Price
 
 Read data in, clean and format.
 Merge two datasets together based on common date values.
